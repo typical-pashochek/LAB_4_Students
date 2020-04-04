@@ -1,0 +1,5 @@
+﻿  Students_func.c
+D:\Projects_in_c\LAB_4_Students\LAB_4_Students\Students_func.c(6,28): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\LAB_4_Students\LAB_4_Students\Students_func.c(21,6): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Projects_in_c\LAB_4_Students\LAB_4_Students\Students_func.c(123,14): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  LAB_4_Students.vcxproj -> D:\Projects_in_c\LAB_4_Students\Debug\LAB_4_Students.exe

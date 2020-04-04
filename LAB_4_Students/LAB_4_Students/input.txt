@@ -1,0 +1,15 @@
+Pavlov(a)       Valentine       18      FF-503  89996494040     4335544345
+Golubev(a)      Maria           20      MT-301  89995912857     3335355455
+Morozov(a)      Victor          22      FF-305  89994923511     4444545343
+Smirnov(a)      Kirill          19      FF-402  89990506116     5433353453
+Popov(a)        Valery          25      FF-304  89990525344     4434544543
+Alekseev(a)     Pavel           25      FF-104  89998877667     3555353535
+Orlov(a)        Elizabeth       25      MT-301  89992668733     4533444355
+Belov(a)        Julia           19      MK-102  89999136669     3544335544
+Smirnov(a)      Oleg            20      FF-505  89990525344     3544544355
+Kozlov(a)       Sergei          25      MT-102  89993935829     4333554534
+Bogdanov(a)     Alina           26      FF-505  89998168396     4354544443
+Alekseev(a)     Arthur          25      FF-303  89991151448     4545354555
+Grigoriev(a)    Vitaly          18      FF-205  89999918906     5434533444
+Kiselev(a)      Artem           18      MN-201  89993302332     4355355544
+Titov(a)        Maksim          21      MT-102  89999254114     3545355554
